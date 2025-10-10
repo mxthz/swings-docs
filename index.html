@@ -6,6 +6,73 @@
     <meta name="description" content="Swings - Track your daily mood and emotions to better understand your mental well-being">
     <title>Swings - Mood Tracking App</title>
     <style>
+        .language-selector {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1000;
+        }
+        
+        .lang-button {
+            background: white;
+            border: 2px solid #D97706;
+            border-radius: 25px;
+            padding: 10px 20px;
+            font-size: 1em;
+            font-weight: 600;
+            color: #2c3e50;
+            cursor: pointer;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+        }
+        
+        .lang-button:hover {
+            background: #FBF5EF;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+        }
+        
+        .lang-dropdown {
+            position: absolute;
+            top: 100%;
+            right: 0;
+            margin-top: 10px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+            min-width: 200px;
+            max-height: 400px;
+            overflow-y: auto;
+            display: none;
+        }
+        
+        .lang-dropdown.show {
+            display: block;
+        }
+        
+        .lang-option {
+            display: block;
+            padding: 12px 20px;
+            color: #2c3e50;
+            text-decoration: none;
+            transition: background 0.2s ease;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        
+        .lang-option:last-child {
+            border-bottom: none;
+        }
+        
+        .lang-option:hover {
+            background: #FBF5EF;
+        }
+        
+        .lang-option.active {
+            background: #FBF5EF;
+            color: #D97706;
+            font-weight: 600;
+        }
+        
         * {
             margin: 0;
             padding: 0;
@@ -180,66 +247,67 @@
     <div class="container">
         <header>
             <div class="logo">📊</div>
-            <h1>Swings</h1>
-            <p class="tagline">Track your daily mood and emotions to better understand your mental well-being</p>
-            <a href="https://apps.apple.com/app/swings" class="cta-button">Download on the App Store</a>
+            <h1 data-i18n="title">Swings</h1>
+            <p class="tagline" data-i18n="tagline">Track your daily mood and emotions to better understand your mental well-being</p>
+            <a href="https://apps.apple.com/app/swings" class="cta-button" data-i18n="download">Download on the App Store</a>
         </header>
         
         <section class="features">
             <div class="feature">
                 <div class="feature-icon">📅</div>
-                <h3>Daily Mood Tracking</h3>
-                <p>Simply tap on any date in the calendar to record how you felt that day. Choose from 5 mood levels and add notes about what went well or poorly.</p>
+                <h3 data-i18n="dailyMood">Daily Mood Tracking</h3>
+                <p data-i18n="dailyMoodDesc">Simply tap on any date in the calendar to record how you felt that day. Choose from 5 mood levels and add notes about what went well or poorly.</p>
             </div>
             
             <div class="feature">
                 <div class="feature-icon">📝</div>
-                <h3>Express Your Feelings</h3>
-                <p>Add detailed notes about your day. Track what made you happy, what challenged you, and notice patterns over time.</p>
+                <h3 data-i18n="express">Express Your Feelings</h3>
+                <p data-i18n="expressDesc">Add detailed notes about your day. Track what made you happy, what challenged you, and notice patterns over time.</p>
             </div>
             
             <div class="feature">
                 <div class="feature-icon">📈</div>
-                <h3>Visual Progress</h3>
-                <p>View your emotional journey with mood indicators displayed directly on the calendar. See your trends and patterns at a glance.</p>
+                <h3 data-i18n="visualProgress">Visual Progress</h3>
+                <p data-i18n="visualProgressDesc">View your emotional journey with mood indicators displayed directly on the calendar. See your trends and patterns at a glance.</p>
             </div>
         </section>
         
         <section class="premium-section">
-            <h2>✨ Premium Features</h2>
-            <p style="font-size: 1.1em; color: #666; margin-bottom: 30px;">
+            <h2 data-i18n="premiumFeatures">✨ Premium Features</h2>
+            <p style="font-size: 1.1em; color: #666; margin-bottom: 30px;" data-i18n="premiumSubtitle">
                 Unlock unlimited access to your complete mood history
             </p>
             
             <div class="premium-features">
                 <div class="premium-feature">
-                    <h4>📅 Unlimited Calendar Navigation</h4>
-                    <p>Navigate to any month in your history without restrictions</p>
+                    <h4 data-i18n="unlimitedNav">📅 Unlimited Calendar Navigation</h4>
+                    <p data-i18n="unlimitedNavDesc">Navigate to any month in your history without restrictions</p>
                 </div>
                 
                 <div class="premium-feature">
-                    <h4>🗂️ Full History Access</h4>
-                    <p>View all your mood entries from any time period</p>
+                    <h4 data-i18n="fullHistory">🗂️ Full History Access</h4>
+                    <p data-i18n="fullHistoryDesc">View all your mood entries from any time period</p>
                 </div>
                 
                 <div class="premium-feature">
-                    <h4>📊 Mood Analytics</h4>
-                    <p>Visualize your mood trends over time with beautiful graphs</p>
+                    <h4 data-i18n="moodAnalytics">📊 Mood Analytics</h4>
+                    <p data-i18n="moodAnalyticsDesc">Visualize your mood trends over time with beautiful graphs</p>
                 </div>
             </div>
             
-            <p style="margin-top: 30px; font-size: 1.1em;">
+            <p style="margin-top: 30px; font-size: 1.1em;" data-i18n="freeTrial">
                 <strong>7-Day Free Trial</strong> included with yearly subscription
             </p>
         </section>
         
         <footer>
             <div class="footer-links">
-                <a href="terms.html">Terms of Service</a>
-                <a href="privacy.html">Privacy Policy</a>
+                <a href="terms.html" data-i18n="terms">Terms of Service</a>
+                <a href="privacy.html" data-i18n="privacy">Privacy Policy</a>
             </div>
-            <p>&copy; 2025 Swings. All rights reserved.</p>
+            <p data-i18n="copyright">&copy; 2025 Swings. All rights reserved.</p>
         </footer>
     </div>
+    <script src="js/lang.js"></script>
 </body>
 </html>
