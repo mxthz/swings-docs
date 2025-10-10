@@ -22,7 +22,10 @@ const translations = {
         terms: "Terms of Service",
         privacy: "Privacy Policy",
         copyright: "© 2025 Swings. All rights reserved.",
-        backHome: "← Back to Home"
+        backHome: "← Back to Home",
+        privacyTitle: "Privacy Policy",
+        termsTitle: "Terms of Service",
+        lastUpdated: "Last Updated: October 10, 2025"
     },
     es: {
         title: "Swings - Aplicación de Seguimiento del Estado de Ánimo",
@@ -46,7 +49,10 @@ const translations = {
         terms: "Términos de Servicio",
         privacy: "Política de Privacidad",
         copyright: "© 2025 Swings. Todos los derechos reservados.",
-        backHome: "← Volver al Inicio"
+        backHome: "← Volver al Inicio",
+        privacyTitle: "Política de Privacidad",
+        termsTitle: "Términos de Servicio",
+        lastUpdated: "Última actualización: 10 de octubre de 2025"
     },
     fr: {
         title: "Swings - Application de Suivi de l'Humeur",
@@ -70,7 +76,10 @@ const translations = {
         terms: "Conditions d'Utilisation",
         privacy: "Politique de Confidentialité",
         copyright: "© 2025 Swings. Tous droits réservés.",
-        backHome: "← Retour à l'Accueil"
+        backHome: "← Retour à l'Accueil",
+        privacyTitle: "Politique de Confidentialité",
+        termsTitle: "Conditions d'Utilisation",
+        lastUpdated: "Dernière mise à jour : 10 octobre 2025"
     },
     de: {
         title: "Swings - Stimmungstracking-App",
@@ -94,7 +103,10 @@ const translations = {
         terms: "Nutzungsbedingungen",
         privacy: "Datenschutzerklärung",
         copyright: "© 2025 Swings. Alle Rechte vorbehalten.",
-        backHome: "← Zurück zur Startseite"
+        backHome: "← Zurück zur Startseite",
+        privacyTitle: "Datenschutzerklärung",
+        termsTitle: "Nutzungsbedingungen",
+        lastUpdated: "Letzte Aktualisierung: 10. Oktober 2025"
     },
     it: {
         title: "Swings - App per il Monitoraggio dell'Umore",
@@ -118,7 +130,10 @@ const translations = {
         terms: "Termini di Servizio",
         privacy: "Informativa sulla Privacy",
         copyright: "© 2025 Swings. Tutti i diritti riservati.",
-        backHome: "← Torna alla Home"
+        backHome: "← Torna alla Home",
+        privacyTitle: "Informativa sulla Privacy",
+        termsTitle: "Termini di Servizio",
+        lastUpdated: "Ultimo aggiornamento: 10 ottobre 2025"
     },
     pt: {
         title: "Swings - Aplicativo de Rastreamento de Humor",
@@ -142,7 +157,10 @@ const translations = {
         terms: "Termos de Serviço",
         privacy: "Política de Privacidade",
         copyright: "© 2025 Swings. Todos os direitos reservados.",
-        backHome: "← Voltar ao Início"
+        backHome: "← Voltar ao Início",
+        privacyTitle: "Política de Privacidade",
+        termsTitle: "Termos de Serviço",
+        lastUpdated: "Última atualização: 10 de outubro de 2025"
     },
     ja: {
         title: "Swings - 気分追跡アプリ",
@@ -166,7 +184,10 @@ const translations = {
         terms: "利用規約",
         privacy: "プライバシーポリシー",
         copyright: "© 2025 Swings. 無断転載を禁じます。",
-        backHome: "← ホームに戻る"
+        backHome: "← ホームに戻る",
+        privacyTitle: "プライバシーポリシー",
+        termsTitle: "利用規約",
+        lastUpdated: "最終更新日: 2025年10月10日"
     },
     ko: {
         title: "Swings - 무드 트래킹 앱",
@@ -190,7 +211,10 @@ const translations = {
         terms: "서비스 약관",
         privacy: "개인정보 처리방침",
         copyright: "© 2025 Swings. 모든 권리 보유.",
-        backHome: "← 홈으로 돌아가기"
+        backHome: "← 홈으로 돌아가기",
+        privacyTitle: "개인정보 처리방침",
+        termsTitle: "서비스 약관",
+        lastUpdated: "최종 업데이트: 2025년 10월 10일"
     },
     zh: {
         title: "Swings - 情绪追踪应用",
@@ -214,7 +238,10 @@ const translations = {
         terms: "服务条款",
         privacy: "隐私政策",
         copyright: "© 2025 Swings. 版权所有。",
-        backHome: "← 返回首页"
+        backHome: "← 返回首页",
+        privacyTitle: "隐私政策",
+        termsTitle: "服务条款",
+        lastUpdated: "最后更新：2025年10月10日"
     },
     "zh-TW": {
         title: "Swings - 情緒追蹤應用程式",
@@ -238,7 +265,10 @@ const translations = {
         terms: "服務條款",
         privacy: "隱私政策",
         copyright: "© 2025 Swings. 版權所有。",
-        backHome: "← 返回首頁"
+        backHome: "← 返回首頁",
+        privacyTitle: "隱私政策",
+        termsTitle: "服務條款",
+        lastUpdated: "最後更新：2025年10月10日"
     },
     ar: {
         title: "Swings - تطبيق تتبع المزاج",
@@ -262,7 +292,10 @@ const translations = {
         terms: "شروط الخدمة",
         privacy: "سياسة الخصوصية",
         copyright: "© 2025 Swings. جميع الحقوق محفوظة.",
-        backHome: "← العودة إلى الصفحة الرئيسية"
+        backHome: "← العودة إلى الصفحة الرئيسية",
+        privacyTitle: "سياسة الخصوصية",
+        termsTitle: "شروط الخدمة",
+        lastUpdated: "آخر تحديث: 10 أكتوبر 2025"
     },
     hi: {
         title: "Swings - मूड ट्रैकिंग ऐप",
@@ -286,7 +319,10 @@ const translations = {
         terms: "सेवा की शर्तें",
         privacy: "गोपनीयता नीति",
         copyright: "© 2025 Swings. सर्वाधिकार सुरक्षित।",
-        backHome: "← होम पर वापस जाएं"
+        backHome: "← होम पर वापस जाएं",
+        privacyTitle: "गोपनीयता नीति",
+        termsTitle: "सेवा की शर्तें",
+        lastUpdated: "अंतिम अपडेट: 10 अक्टूबर 2025"
     },
     ru: {
         title: "Swings - Приложение для отслеживания настроения",
@@ -310,7 +346,10 @@ const translations = {
         terms: "Условия использования",
         privacy: "Политика конфиденциальности",
         copyright: "© 2025 Swings. Все права защищены.",
-        backHome: "← Вернуться на главную"
+        backHome: "← Вернуться на главную",
+        privacyTitle: "Политика конфиденциальности",
+        termsTitle: "Условия использования",
+        lastUpdated: "Последнее обновление: 10 октября 2025 г."
     },
     tr: {
         title: "Swings - Ruh Hali İzleme Uygulaması",
@@ -334,7 +373,10 @@ const translations = {
         terms: "Hizmet Şartları",
         privacy: "Gizlilik Politikası",
         copyright: "© 2025 Swings. Tüm hakları saklıdır.",
-        backHome: "← Ana Sayfaya Dön"
+        backHome: "← Ana Sayfaya Dön",
+        privacyTitle: "Gizlilik Politikası",
+        termsTitle: "Hizmet Şartları",
+        lastUpdated: "Son güncelleme: 10 Ekim 2025"
     },
     id: {
         title: "Swings - Aplikasi Pelacakan Suasana Hati",
@@ -358,7 +400,10 @@ const translations = {
         terms: "Ketentuan Layanan",
         privacy: "Kebijakan Privasi",
         copyright: "© 2025 Swings. Hak cipta dilindungi.",
-        backHome: "← Kembali ke Beranda"
+        backHome: "← Kembali ke Beranda",
+        privacyTitle: "Kebijakan Privasi",
+        termsTitle: "Ketentuan Layanan",
+        lastUpdated: "Terakhir diperbarui: 10 Oktober 2025"
     },
     th: {
         title: "Swings - แอปติดตามอารมณ์",
@@ -382,7 +427,10 @@ const translations = {
         terms: "เงื่อนไขการให้บริการ",
         privacy: "นโยบายความเป็นส่วนตัว",
         copyright: "© 2025 Swings. สงวนลิขสิทธิ์",
-        backHome: "← กลับหน้าหลัก"
+        backHome: "← กลับหน้าหลัก",
+        privacyTitle: "นโยบายความเป็นส่วนตัว",
+        termsTitle: "เงื่อนไขการให้บริการ",
+        lastUpdated: "อัปเดตล่าสุด: 10 ตุลาคม 2025"
     },
     nl: {
         title: "Swings - Stemmingstracking App",
@@ -406,7 +454,10 @@ const translations = {
         terms: "Servicevoorwaarden",
         privacy: "Privacybeleid",
         copyright: "© 2025 Swings. Alle rechten voorbehouden.",
-        backHome: "← Terug naar Home"
+        backHome: "← Terug naar Home",
+        privacyTitle: "Privacybeleid",
+        termsTitle: "Servicevoorwaarden",
+        lastUpdated: "Laatst bijgewerkt: 10 oktober 2025"
     }
 };
 
@@ -557,4 +608,100 @@ document.addEventListener('DOMContentLoaded', () => {
     const lang = detectLanguage();
     applyTranslations(lang);
     createLanguageSelector();
+});
+
+// Add privacy policy translations
+const privacyTranslations = {
+    en: {
+        privacyTitle: "Privacy Policy",
+        termsTitle: "Terms of Service",
+        lastUpdated: "Last Updated: October 10, 2025"
+    },
+    es: {
+        privacyTitle: "Política de Privacidad",
+        termsTitle: "Términos de Servicio",
+        lastUpdated: "Última actualización: 10 de octubre de 2025"
+    },
+    fr: {
+        privacyTitle: "Politique de Confidentialité",
+        termsTitle: "Conditions d'Utilisation",
+        lastUpdated: "Dernière mise à jour : 10 octobre 2025"
+    },
+    de: {
+        privacyTitle: "Datenschutzerklärung",
+        termsTitle: "Nutzungsbedingungen",
+        lastUpdated: "Letzte Aktualisierung: 10. Oktober 2025"
+    },
+    it: {
+        privacyTitle: "Informativa sulla Privacy",
+        termsTitle: "Termini di Servizio",
+        lastUpdated: "Ultimo aggiornamento: 10 ottobre 2025"
+    },
+    pt: {
+        privacyTitle: "Política de Privacidade",
+        termsTitle: "Termos de Serviço",
+        lastUpdated: "Última atualização: 10 de outubro de 2025"
+    },
+    ja: {
+        privacyTitle: "プライバシーポリシー",
+        termsTitle: "利用規約",
+        lastUpdated: "最終更新日: 2025年10月10日"
+    },
+    ko: {
+        privacyTitle: "개인정보 처리방침",
+        termsTitle: "서비스 약관",
+        lastUpdated: "최종 업데이트: 2025년 10월 10일"
+    },
+    zh: {
+        privacyTitle: "隐私政策",
+        termsTitle: "服务条款",
+        lastUpdated: "最后更新：2025年10月10日"
+    },
+    "zh-TW": {
+        privacyTitle: "隱私政策",
+        termsTitle: "服務條款",
+        lastUpdated: "最後更新：2025年10月10日"
+    },
+    ar: {
+        privacyTitle: "سياسة الخصوصية",
+        termsTitle: "شروط الخدمة",
+        lastUpdated: "آخر تحديث: 10 أكتوبر 2025"
+    },
+    hi: {
+        privacyTitle: "गोपनीयता नीति",
+        termsTitle: "सेवा की शर्तें",
+        lastUpdated: "अंतिम अपडेट: 10 अक्टूबर 2025"
+    },
+    ru: {
+        privacyTitle: "Политика конфиденциальности",
+        termsTitle: "Условия использования",
+        lastUpdated: "Последнее обновление: 10 октября 2025 г."
+    },
+    tr: {
+        privacyTitle: "Gizlilik Politikası",
+        termsTitle: "Hizmet Şartları",
+        lastUpdated: "Son güncelleme: 10 Ekim 2025"
+    },
+    id: {
+        privacyTitle: "Kebijakan Privasi",
+        termsTitle: "Ketentuan Layanan",
+        lastUpdated: "Terakhir diperbarui: 10 Oktober 2025"
+    },
+    th: {
+        privacyTitle: "นโยบายความเป็นส่วนตัว",
+        termsTitle: "เงื่อนไขการให้บริการ",
+        lastUpdated: "อัปเดตล่าสุด: 10 ตุลาคม 2025"
+    },
+    nl: {
+        privacyTitle: "Privacybeleid",
+        termsTitle: "Servicevoorwaarden",
+        lastUpdated: "Laatst bijgewerkt: 10 oktober 2025"
+    }
+};
+
+// Merge privacy translations into main translations
+Object.keys(translations).forEach(lang => {
+    if (privacyTranslations[lang]) {
+        Object.assign(translations[lang], privacyTranslations[lang]);
+    }
 });
