@@ -4,28 +4,32 @@ const translations = {
         title: "Swings - Mood Tracking App",
         tagline: "Track your daily mood and emotions to better understand your mental well-being",
         download: "Download on the App Store",
+        featuresTitle: "Why Choose Swings?",
         dailyMood: "Daily Mood Tracking",
         dailyMoodDesc: "Simply tap on any date in the calendar to record how you felt that day. Choose from 5 mood levels and add notes about what went well or poorly.",
         express: "Express Your Feelings",
         expressDesc: "Add detailed notes about your day. Track what made you happy, what challenged you, and notice patterns over time.",
         visualProgress: "Visual Progress",
         visualProgressDesc: "View your emotional journey with mood indicators displayed directly on the calendar. See your trends and patterns at a glance.",
-        premiumFeatures: "✨ Premium Features",
-        premiumSubtitle: "Unlock unlimited access to your complete mood history",
-        unlimitedNav: "📅 Unlimited Calendar Navigation",
-        unlimitedNavDesc: "Navigate to any month in your history without restrictions",
-        fullHistory: "🗂️ Full History Access",
-        fullHistoryDesc: "View all your mood entries from any time period",
-        moodAnalytics: "📊 Mood Analytics",
-        moodAnalyticsDesc: "Visualize your mood trends over time with beautiful graphs",
-        freeTrial: "7-Day Free Trial included with yearly subscription",
+        captureTitle: "Capture Your Moments",
+        captureDesc: "Attach photos to your mood entries to remember what made each day special.",
+        voiceTitle: "Speak Your Mind",
+        voiceDesc: "Record voice notes to capture your thoughts and emotions in your own words.",
+        privacyDesc: "All your data stays private and secure on your device. We never collect or share your personal information.",
+        premiumFeatures: "✨ Unlock Premium",
+        premiumSubtitle: "Unlock all features to enhance your mood tracking experience",
+        moodAnalytics: "Mood Analytics",
+        moodAnalyticsDesc: "Visualize your mood trends over time with beautiful graphs and insights.",
+        unlimitedPictures: "Unlimited Pictures",
+        unlimitedPicturesDesc: "Attach as many photos as you want to capture your special moments.",
+        voiceRecordings: "Voice Recordings",
+        voiceRecordingsDesc: "Record unlimited voice notes to express your thoughts and feelings.",
+        freeTrial: "7-Day Free Trial with Yearly Plan",
         terms: "Terms of Service",
         privacy: "Privacy Policy",
         copyright: "© 2025 Swings. All rights reserved.",
         backHome: "← Back to Home",
-        privacyTitle: "Privacy Policy",
-        termsTitle: "Terms of Service",
-        lastUpdated: "Last Updated: October 10, 2025"
+        lastUpdated: "Last Updated: October 10, 2025",
     },
     es: {
         title: "Swings - Aplicación de Seguimiento del Estado de Ánimo",
@@ -38,21 +42,29 @@ const translations = {
         visualProgress: "Progreso Visual",
         visualProgressDesc: "Ve tu viaje emocional con indicadores de estado de ánimo mostrados directamente en el calendario. Ve tus tendencias y patrones de un vistazo.",
         premiumFeatures: "✨ Características Premium",
-        premiumSubtitle: "Desbloquea acceso ilimitado a tu historial completo de estados de ánimo",
+        premiumSubtitle: "Desbloquea todas las funciones para mejorar tu seguimiento de ánimo",
         unlimitedNav: "📅 Navegación de Calendario Ilimitada",
         unlimitedNavDesc: "Navega a cualquier mes en tu historial sin restricciones",
         fullHistory: "🗂️ Acceso al Historial Completo",
         fullHistoryDesc: "Ve todas tus entradas de estado de ánimo de cualquier período de tiempo",
-        moodAnalytics: "📊 Análisis del Estado de Ánimo",
+        moodAnalytics: "Análisis del Estado de Ánimo",
         moodAnalyticsDesc: "Visualiza las tendencias de tu estado de ánimo con hermosos gráficos",
         freeTrial: "Prueba gratuita de 7 días incluida con la suscripción anual",
         terms: "Términos de Servicio",
         privacy: "Política de Privacidad",
         copyright: "© 2025 Swings. Todos los derechos reservados.",
         backHome: "← Volver al Inicio",
-        privacyTitle: "Política de Privacidad",
-        termsTitle: "Términos de Servicio",
-        lastUpdated: "Última actualización: 10 de octubre de 2025"
+        lastUpdated: "Última actualización: 10 de octubre de 2025",
+        featuresTitle: "¿Por qué elegir Swings?",
+        captureTitle: "Captura Tus Momentos",
+        captureDesc: "Adjunta fotos a tus entradas de ánimo para recordar qué hizo especial cada día.",
+        voiceTitle: "Habla sin reservas",
+        voiceDesc: "Graba notas de voz para capturar tus pensamientos y emociones con tus propias palabras.",
+        privacyDesc: "Todos tus datos permanecen privados y seguros en tu dispositivo. Nunca recopilamos ni compartimos tu información personal.",
+        unlimitedPictures: "Fotos de Estado de Ánimo",
+        unlimitedPicturesDesc: "Adjunta tantas fotos como quieras para capturar tus momentos especiales.",
+        voiceRecordings: "Grabaciones de voz",
+        voiceRecordingsDesc: "Graba notas de voz ilimitadas para expresar tus pensamientos y sentimientos."
     },
     fr: {
         title: "Swings - Application de Suivi de l'Humeur",
@@ -65,22 +77,30 @@ const translations = {
         visualProgress: "Progrès Visuel",
         visualProgressDesc: "Visualisez votre parcours émotionnel avec des indicateurs d'humeur affichés directement sur le calendrier. Voyez vos tendances et modèles en un coup d'œil.",
         premiumFeatures: "✨ Fonctionnalités Premium",
-        premiumSubtitle: "Débloquez un accès illimité à votre historique d'humeur complet",
+        premiumSubtitle: "Débloquez toutes les fonctionnalités pour améliorer votre suivi d\'humeur",
         unlimitedNav: "📅 Navigation Calendrier Illimitée",
         unlimitedNavDesc: "Naviguez vers n'importe quel mois de votre historique sans restrictions",
         fullHistory: "🗂️ Accès à l'Historique Complet",
         fullHistoryDesc: "Consultez toutes vos entrées d'humeur de n'importe quelle période",
-        moodAnalytics: "📊 Analyses d'Humeur",
+        moodAnalytics: "Analyse de l\'Humeur",
         moodAnalyticsDesc: "Visualisez les tendances de votre humeur avec de beaux graphiques",
         freeTrial: "Essai gratuit de 7 jours inclus avec l'abonnement annuel",
         terms: "Conditions d'Utilisation",
         privacy: "Politique de Confidentialité",
         copyright: "© 2025 Swings. Tous droits réservés.",
         backHome: "← Retour à l'Accueil",
-        privacyTitle: "Politique de Confidentialité",
-        termsTitle: "Conditions d'Utilisation",
-        lastUpdated: "Dernière mise à jour : 10 octobre 2025"
-    },
+        lastUpdated: "Dernière mise à jour : 10 octobre 2025",
+        featuresTitle: "Pourquoi choisir Swings?",
+        captureTitle: "Capturez Vos Moments",
+        captureDesc: "Ajoutez des photos à vos entrées d\'humeur pour vous souvenir de ce qui a rendu chaque jour spécial.",
+        voiceTitle: "Exprimez-vous",
+        voiceDesc: "Enregistrez des notes vocales pour capturer vos pensées et émotions avec vos propres mots.",
+        privacyDesc: "Toutes vos données restent privées et sécurisées sur votre appareil. Nous ne collectons ni ne partageons jamais vos informations personnelles.",
+        unlimitedPictures: "Ajout de Photos",
+        unlimitedPicturesDesc: "Ajoutez autant de photos que vous le souhaitez pour capturer vos moments spéciaux.",
+        voiceRecordings: "Enregistrements vocaux",
+        voiceRecordingsDesc: "Enregistrez des notes vocales illimitées pour exprimer vos pensées et sentiments.",
+},
     de: {
         title: "Swings - Stimmungstracking-App",
         tagline: "Verfolgen Sie Ihre tägliche Stimmung und Emotionen, um Ihr mentales Wohlbefinden besser zu verstehen",
@@ -92,22 +112,30 @@ const translations = {
         visualProgress: "Visueller Fortschritt",
         visualProgressDesc: "Sehen Sie Ihre emotionale Reise mit Stimmungsindikatoren, die direkt im Kalender angezeigt werden. Sehen Sie Ihre Trends und Muster auf einen Blick.",
         premiumFeatures: "✨ Premium-Funktionen",
-        premiumSubtitle: "Schalten Sie unbegrenzten Zugriff auf Ihre vollständige Stimmungshistorie frei",
+        premiumSubtitle: "Schalte alle Funktionen frei, um deine Stimmungsverfolgung zu verbessern",
         unlimitedNav: "📅 Unbegrenzte Kalendernavigation",
         unlimitedNavDesc: "Navigieren Sie zu jedem Monat in Ihrer Historie ohne Einschränkungen",
         fullHistory: "🗂️ Vollständiger Historienzugriff",
         fullHistoryDesc: "Sehen Sie alle Ihre Stimmungseinträge aus jedem Zeitraum",
-        moodAnalytics: "📊 Stimmungsanalysen",
+        moodAnalytics: "Stimmungsanalyse",
         moodAnalyticsDesc: "Visualisieren Sie Ihre Stimmungstrends mit schönen Grafiken",
         freeTrial: "7-tägige kostenlose Testversion im Jahresabonnement enthalten",
         terms: "Nutzungsbedingungen",
         privacy: "Datenschutzerklärung",
         copyright: "© 2025 Swings. Alle Rechte vorbehalten.",
         backHome: "← Zurück zur Startseite",
-        privacyTitle: "Datenschutzerklärung",
-        termsTitle: "Nutzungsbedingungen",
-        lastUpdated: "Letzte Aktualisierung: 10. Oktober 2025"
-    },
+        lastUpdated: "Letzte Aktualisierung: 10. Oktober 2025",
+        featuresTitle: "Warum Swings wählen?",
+        captureTitle: "Erfassen Sie Ihre Momente",
+        captureDesc: "Fügen Sie Fotos zu Ihren Stimmungseinträgen hinzu, um sich daran zu erinnern, was jeden Tag besonders gemacht hat.",
+        voiceTitle: "Sprechen Sie Ihre Meinung",
+        voiceDesc: "Nehmen Sie Sprachnotizen auf, um Ihre Gedanken und Emotionen mit Ihren eigenen Worten festzuhalten.",
+        privacyDesc: "Alle Ihre Daten bleiben privat und sicher auf Ihrem Gerät. Wir sammeln oder teilen niemals Ihre persönlichen Informationen.",
+        unlimitedPictures: "Stimmungsfotos",
+        unlimitedPicturesDesc: "Fügen Sie so viele Fotos hinzu, wie Sie möchten, um Ihre besonderen Momente festzuhalten.",
+        voiceRecordings: "Sprachaufnahmen",
+        voiceRecordingsDesc: "Nehmen Sie unbegrenzte Sprachnotizen auf, um Ihre Gedanken und Gefühle auszudrücken.",
+},
     it: {
         title: "Swings - App per il Monitoraggio dell'Umore",
         tagline: "Monitora il tuo umore e le tue emozioni quotidiane per comprendere meglio il tuo benessere mentale",
@@ -119,21 +147,19 @@ const translations = {
         visualProgress: "Progresso Visivo",
         visualProgressDesc: "Visualizza il tuo viaggio emotivo con indicatori dell'umore mostrati direttamente sul calendario. Vedi le tue tendenze e pattern a colpo d'occhio.",
         premiumFeatures: "✨ Funzionalità Premium",
-        premiumSubtitle: "Sblocca l'accesso illimitato alla tua cronologia completa dell'umore",
+        premiumSubtitle: "Sblocca tutte le funzionalità per migliorare il tracciamento del tuo umore",
         unlimitedNav: "📅 Navigazione Calendario Illimitata",
         unlimitedNavDesc: "Naviga verso qualsiasi mese nella tua cronologia senza restrizioni",
         fullHistory: "🗂️ Accesso alla Cronologia Completa",
         fullHistoryDesc: "Visualizza tutte le tue voci dell'umore da qualsiasi periodo di tempo",
-        moodAnalytics: "📊 Analisi dell'Umore",
+        moodAnalytics: "Analisi dell\'Umore",
         moodAnalyticsDesc: "Visualizza le tendenze del tuo umore con bellissimi grafici",
         freeTrial: "Prova gratuita di 7 giorni inclusa con l'abbonamento annuale",
         terms: "Termini di Servizio",
         privacy: "Informativa sulla Privacy",
         copyright: "© 2025 Swings. Tutti i diritti riservati.",
         backHome: "← Torna alla Home",
-        privacyTitle: "Informativa sulla Privacy",
-        termsTitle: "Termini di Servizio",
-        lastUpdated: "Ultimo aggiornamento: 10 ottobre 2025"
+        lastUpdated: "Ultimo aggiornamento: 10 ottobre 2025",
     },
     pt: {
         title: "Swings - Aplicativo de Rastreamento de Humor",
@@ -146,21 +172,19 @@ const translations = {
         visualProgress: "Progresso Visual",
         visualProgressDesc: "Visualize sua jornada emocional com indicadores de humor exibidos diretamente no calendário. Veja suas tendências e padrões rapidamente.",
         premiumFeatures: "✨ Recursos Premium",
-        premiumSubtitle: "Desbloqueie acesso ilimitado ao seu histórico completo de humor",
+        premiumSubtitle: "Desbloqueie todos os recursos para aprimorar seu acompanhamento de humor",
         unlimitedNav: "📅 Navegação de Calendário Ilimitada",
         unlimitedNavDesc: "Navegue para qualquer mês no seu histórico sem restrições",
         fullHistory: "🗂️ Acesso ao Histórico Completo",
         fullHistoryDesc: "Visualize todas as suas entradas de humor de qualquer período de tempo",
-        moodAnalytics: "📊 Análise de Humor",
+        moodAnalytics: "Análise de Humor",
         moodAnalyticsDesc: "Visualize as tendências do seu humor com belos gráficos",
         freeTrial: "Teste gratuito de 7 dias incluído na assinatura anual",
         terms: "Termos de Serviço",
         privacy: "Política de Privacidade",
         copyright: "© 2025 Swings. Todos os direitos reservados.",
         backHome: "← Voltar ao Início",
-        privacyTitle: "Política de Privacidade",
-        termsTitle: "Termos de Serviço",
-        lastUpdated: "Última atualização: 10 de outubro de 2025"
+        lastUpdated: "Última atualização: 10 de outubro de 2025",
     },
     ja: {
         title: "Swings - 気分追跡アプリ",
@@ -173,21 +197,19 @@ const translations = {
         visualProgress: "視覚的な進捗",
         visualProgressDesc: "カレンダーに直接表示される気分インジケーターで感情の旅を見ることができます。一目でトレンドとパターンを確認できます。",
         premiumFeatures: "✨ プレミアム機能",
-        premiumSubtitle: "完全な気分履歴への無制限アクセスをアンロック",
+        premiumSubtitle: "すべての機能をアンロックして気分追跡を強化",
         unlimitedNav: "📅 無制限カレンダーナビゲーション",
         unlimitedNavDesc: "制限なしで履歴の任意の月に移動",
         fullHistory: "🗂️ 完全な履歴アクセス",
         fullHistoryDesc: "任意の期間からすべての気分エントリを表示",
-        moodAnalytics: "📊 気分分析",
+        moodAnalytics: "気分分析",
         moodAnalyticsDesc: "美しいグラフで気分のトレンドを視覚化",
         freeTrial: "年間サブスクリプションに7日間の無料トライアルが含まれています",
         terms: "利用規約",
         privacy: "プライバシーポリシー",
         copyright: "© 2025 Swings. 無断転載を禁じます。",
         backHome: "← ホームに戻る",
-        privacyTitle: "プライバシーポリシー",
-        termsTitle: "利用規約",
-        lastUpdated: "最終更新日: 2025年10月10日"
+        lastUpdated: "最終更新日: 2025年10月10日",
     },
     ko: {
         title: "Swings - 무드 트래킹 앱",
@@ -200,21 +222,19 @@ const translations = {
         visualProgress: "시각적 진행 상황",
         visualProgressDesc: "캘린더에 직접 표시되는 기분 지표로 감정 여정을 확인하세요. 트렌드와 패턴을 한눈에 볼 수 있습니다.",
         premiumFeatures: "✨ 프리미엄 기능",
-        premiumSubtitle: "전체 기분 기록에 대한 무제한 액세스를 잠금 해제하세요",
+        premiumSubtitle: "모든 기능을 잠금 해제하여 기분 추적을 향상시키세요",
         unlimitedNav: "📅 무제한 캘린더 탐색",
         unlimitedNavDesc: "제한 없이 기록의 모든 월로 이동",
         fullHistory: "🗂️ 전체 기록 액세스",
         fullHistoryDesc: "모든 기간의 모든 기분 항목 보기",
-        moodAnalytics: "📊 기분 분석",
+        moodAnalytics: "기분 분석",
         moodAnalyticsDesc: "아름다운 그래프로 기분 추세 시각화",
         freeTrial: "연간 구독에 7일 무료 체험 포함",
         terms: "서비스 약관",
         privacy: "개인정보 처리방침",
         copyright: "© 2025 Swings. 모든 권리 보유.",
         backHome: "← 홈으로 돌아가기",
-        privacyTitle: "개인정보 처리방침",
-        termsTitle: "서비스 약관",
-        lastUpdated: "최종 업데이트: 2025년 10월 10일"
+        lastUpdated: "최종 업데이트: 2025년 10월 10일",
     },
     zh: {
         title: "Swings - 情绪追踪应用",
@@ -227,21 +247,19 @@ const translations = {
         visualProgress: "视觉进度",
         visualProgressDesc: "通过直接显示在日历上的情绪指标查看您的情感旅程。一目了然地查看您的趋势和模式。",
         premiumFeatures: "✨ 高级功能",
-        premiumSubtitle: "解锁对完整情绪历史的无限访问",
+        premiumSubtitle: "解锁所有功能，增强您的心情追踪体验",
         unlimitedNav: "📅 无限日历导航",
         unlimitedNavDesc: "无限制地导航到历史记录中的任何月份",
         fullHistory: "🗂️ 完整历史访问",
         fullHistoryDesc: "查看任何时间段的所有情绪条目",
-        moodAnalytics: "📊 情绪分析",
+        moodAnalytics: "心情分析",
         moodAnalyticsDesc: "使用精美的图表可视化您的情绪趋势",
         freeTrial: "年度订阅包含7天免费试用",
         terms: "服务条款",
         privacy: "隐私政策",
         copyright: "© 2025 Swings. 版权所有。",
         backHome: "← 返回首页",
-        privacyTitle: "隐私政策",
-        termsTitle: "服务条款",
-        lastUpdated: "最后更新：2025年10月10日"
+        lastUpdated: "最后更新：2025年10月10日",
     },
     "zh-TW": {
         title: "Swings - 情緒追蹤應用程式",
@@ -259,16 +277,14 @@ const translations = {
         unlimitedNavDesc: "無限制地導航到歷史記錄中的任何月份",
         fullHistory: "🗂️ 完整歷史訪問",
         fullHistoryDesc: "查看任何時間段的所有情緒條目",
-        moodAnalytics: "📊 情緒分析",
+        moodAnalytics: "情緒分析",
         moodAnalyticsDesc: "使用精美的圖表可視化您的情緒趨勢",
         freeTrial: "年度訂閱包含7天免費試用",
         terms: "服務條款",
         privacy: "隱私政策",
         copyright: "© 2025 Swings. 版權所有。",
         backHome: "← 返回首頁",
-        privacyTitle: "隱私政策",
-        termsTitle: "服務條款",
-        lastUpdated: "最後更新：2025年10月10日"
+        lastUpdated: "最後更新：2025年10月10日",
     },
     ar: {
         title: "Swings - تطبيق تتبع المزاج",
@@ -281,21 +297,19 @@ const translations = {
         visualProgress: "تقدم بصري",
         visualProgressDesc: "شاهد رحلتك العاطفية مع مؤشرات المزاج المعروضة مباشرة على التقويم. انظر إلى اتجاهاتك وأنماطك في لمحة.",
         premiumFeatures: "✨ الميزات المميزة",
-        premiumSubtitle: "افتح وصولاً غير محدود إلى سجل مزاجك الكامل",
+        premiumSubtitle: "افتح جميع الميزات لتحسين تتبع مزاجك",
         unlimitedNav: "📅 تنقل غير محدود في التقويم",
         unlimitedNavDesc: "انتقل إلى أي شهر في سجلك دون قيود",
         fullHistory: "🗂️ الوصول إلى السجل الكامل",
         fullHistoryDesc: "شاهد جميع إدخالات المزاج من أي فترة زمنية",
-        moodAnalytics: "📊 تحليلات المزاج",
+        moodAnalytics: "تحليل المزاج",
         moodAnalyticsDesc: "تصور اتجاهات مزاجك مع رسوم بيانية جميلة",
         freeTrial: "تجربة مجانية لمدة 7 أيام مشمولة في الاشتراك السنوي",
         terms: "شروط الخدمة",
         privacy: "سياسة الخصوصية",
         copyright: "© 2025 Swings. جميع الحقوق محفوظة.",
         backHome: "← العودة إلى الصفحة الرئيسية",
-        privacyTitle: "سياسة الخصوصية",
-        termsTitle: "شروط الخدمة",
-        lastUpdated: "آخر تحديث: 10 أكتوبر 2025"
+        lastUpdated: "آخر تحديث: 10 أكتوبر 2025",
     },
     hi: {
         title: "Swings - मूड ट्रैकिंग ऐप",
@@ -308,21 +322,19 @@ const translations = {
         visualProgress: "दृश्य प्रगति",
         visualProgressDesc: "कैलेंडर पर सीधे प्रदर्शित मूड संकेतकों के साथ अपनी भावनात्मक यात्रा देखें। एक नज़र में अपने रुझान और पैटर्न देखें।",
         premiumFeatures: "✨ प्रीमियम सुविधाएँ",
-        premiumSubtitle: "अपने पूर्ण मूड इतिहास तक असीमित पहुंच अनलॉक करें",
+        premiumSubtitle: "अपने मूड ट्रैकिंग अनुभव को बढ़ाने के लिए सभी सुविधाओं को अनलॉक करें",
         unlimitedNav: "📅 असीमित कैलेंडर नेविगेशन",
         unlimitedNavDesc: "बिना किसी प्रतिबंध के अपने इतिहास में किसी भी महीने पर नेविगेट करें",
         fullHistory: "🗂️ पूर्ण इतिहास पहुंच",
         fullHistoryDesc: "किसी भी समय अवधि से अपनी सभी मूड प्रविष्टियां देखें",
-        moodAnalytics: "📊 मूड विश्लेषण",
+        moodAnalytics: "मूड विश्लेषण",
         moodAnalyticsDesc: "सुंदर ग्राफ़ के साथ अपने मूड रुझानों को दृश्यमान करें",
         freeTrial: "वार्षिक सदस्यता के साथ 7-दिन का निःशुल्क परीक्षण शामिल",
         terms: "सेवा की शर्तें",
         privacy: "गोपनीयता नीति",
         copyright: "© 2025 Swings. सर्वाधिकार सुरक्षित।",
         backHome: "← होम पर वापस जाएं",
-        privacyTitle: "गोपनीयता नीति",
-        termsTitle: "सेवा की शर्तें",
-        lastUpdated: "अंतिम अपडेट: 10 अक्टूबर 2025"
+        lastUpdated: "अंतिम अपडेट: 10 अक्टूबर 2025",
     },
     ru: {
         title: "Swings - Приложение для отслеживания настроения",
@@ -335,21 +347,19 @@ const translations = {
         visualProgress: "Визуальный прогресс",
         visualProgressDesc: "Просматривайте свое эмоциональное путешествие с индикаторами настроения, отображаемыми прямо в календаре. Увидьте свои тенденции и закономерности с первого взгляда.",
         premiumFeatures: "✨ Премиум-функции",
-        premiumSubtitle: "Разблокируйте неограниченный доступ к полной истории настроения",
+        premiumSubtitle: "Разблокируйте все функции для улучшения отслеживания настроения",
         unlimitedNav: "📅 Неограниченная навигация по календарю",
         unlimitedNavDesc: "Переходите к любому месяцу в вашей истории без ограничений",
         fullHistory: "🗂️ Доступ к полной истории",
         fullHistoryDesc: "Просматривайте все ваши записи настроения за любой период времени",
-        moodAnalytics: "📊 Аналитика настроения",
+        moodAnalytics: "Аналитика настроения",
         moodAnalyticsDesc: "Визуализируйте тенденции вашего настроения с красивыми графиками",
         freeTrial: "7-дневная бесплатная пробная версия включена в годовую подписку",
         terms: "Условия использования",
         privacy: "Политика конфиденциальности",
         copyright: "© 2025 Swings. Все права защищены.",
         backHome: "← Вернуться на главную",
-        privacyTitle: "Политика конфиденциальности",
-        termsTitle: "Условия использования",
-        lastUpdated: "Последнее обновление: 10 октября 2025 г."
+        lastUpdated: "Последнее обновление: 10 октября 2025 г.",
     },
     tr: {
         title: "Swings - Ruh Hali İzleme Uygulaması",
@@ -362,21 +372,19 @@ const translations = {
         visualProgress: "Görsel İlerleme",
         visualProgressDesc: "Doğrudan takvimde görüntülenen ruh hali göstergeleriyle duygusal yolculuğunuzu görüntüleyin. Trendlerinizi ve kalıplarınızı bir bakışta görün.",
         premiumFeatures: "✨ Premium Özellikler",
-        premiumSubtitle: "Tam ruh hali geçmişinize sınırsız erişimin kilidini açın",
+        premiumSubtitle: "Ruh hali takibinizi geliştirmek için tüm özelliklerin kilidini açın",
         unlimitedNav: "📅 Sınırsız Takvim Gezintisi",
         unlimitedNavDesc: "Geçmişinizdeki herhangi bir aya kısıtlama olmadan gidin",
         fullHistory: "🗂️ Tam Geçmiş Erişimi",
         fullHistoryDesc: "Herhangi bir zaman diliminden tüm ruh hali girişlerinizi görüntüleyin",
-        moodAnalytics: "📊 Ruh Hali Analitiği",
+        moodAnalytics: "Ruh Hali Analizi",
         moodAnalyticsDesc: "Ruh hali trendlerinizi güzel grafiklerle görselleştirin",
         freeTrial: "Yıllık aboneliğe 7 günlük ücretsiz deneme dahildir",
         terms: "Hizmet Şartları",
         privacy: "Gizlilik Politikası",
         copyright: "© 2025 Swings. Tüm hakları saklıdır.",
         backHome: "← Ana Sayfaya Dön",
-        privacyTitle: "Gizlilik Politikası",
-        termsTitle: "Hizmet Şartları",
-        lastUpdated: "Son güncelleme: 10 Ekim 2025"
+        lastUpdated: "Son güncelleme: 10 Ekim 2025",
     },
     id: {
         title: "Swings - Aplikasi Pelacakan Suasana Hati",
@@ -389,21 +397,19 @@ const translations = {
         visualProgress: "Kemajuan Visual",
         visualProgressDesc: "Lihat perjalanan emosional Anda dengan indikator suasana hati yang ditampilkan langsung di kalender. Lihat tren dan pola Anda sekilas.",
         premiumFeatures: "✨ Fitur Premium",
-        premiumSubtitle: "Buka akses tak terbatas ke riwayat suasana hati lengkap Anda",
+        premiumSubtitle: "Buka semua fitur untuk meningkatkan pelacakan suasana hati Anda",
         unlimitedNav: "📅 Navigasi Kalender Tak Terbatas",
         unlimitedNavDesc: "Navigasi ke bulan mana pun dalam riwayat Anda tanpa batasan",
         fullHistory: "🗂️ Akses Riwayat Lengkap",
         fullHistoryDesc: "Lihat semua entri suasana hati Anda dari periode waktu mana pun",
-        moodAnalytics: "📊 Analitik Suasana Hati",
+        moodAnalytics: "Analitik Suasana Hati",
         moodAnalyticsDesc: "Visualisasikan tren suasana hati Anda dengan grafik yang indah",
         freeTrial: "Uji coba gratis 7 hari termasuk dalam langganan tahunan",
         terms: "Ketentuan Layanan",
         privacy: "Kebijakan Privasi",
         copyright: "© 2025 Swings. Hak cipta dilindungi.",
         backHome: "← Kembali ke Beranda",
-        privacyTitle: "Kebijakan Privasi",
-        termsTitle: "Ketentuan Layanan",
-        lastUpdated: "Terakhir diperbarui: 10 Oktober 2025"
+        lastUpdated: "Terakhir diperbarui: 10 Oktober 2025",
     },
     th: {
         title: "Swings - แอปติดตามอารมณ์",
@@ -416,21 +422,19 @@ const translations = {
         visualProgress: "ความคืบหน้าด้วยภาพ",
         visualProgressDesc: "ดูการเดินทางทางอารมณ์ของคุณด้วยตัวบ่งชี้อารมณ์ที่แสดงโดยตรงบนปฏิทิน ดูแนวโน้มและรูปแบบของคุณได้อย่างรวดเร็ว",
         premiumFeatures: "✨ คุณสมบัติพรีเมียม",
-        premiumSubtitle: "ปลดล็อกการเข้าถึงไม่จำกัดไปยังประวัติอารมณ์ทั้งหมดของคุณ",
+        premiumSubtitle: "ปลดล็อกฟีเจอร์ทั้งหมดเพื่อปรับปรุงการติดตามอารมณ์ของคุณ",
         unlimitedNav: "📅 การนำทางปฏิทินไม่จำกัด",
         unlimitedNavDesc: "นำทางไปยังเดือนใดก็ได้ในประวัติของคุณโดยไม่มีข้อจำกัด",
         fullHistory: "🗂️ การเข้าถึงประวัติทั้งหมด",
         fullHistoryDesc: "ดูรายการอารมณ์ทั้งหมดของคุณจากช่วงเวลาใดก็ได้",
-        moodAnalytics: "📊 การวิเคราะห์อารมณ์",
+        moodAnalytics: "การวิเคราะห์อารมณ์",
         moodAnalyticsDesc: "แสดงแนวโน้มอารมณ์ของคุณด้วยกราฟที่สวยงาม",
         freeTrial: "รวมทดลองใช้ฟรี 7 วันกับการสมัครสมาชิกรายปี",
         terms: "เงื่อนไขการให้บริการ",
         privacy: "นโยบายความเป็นส่วนตัว",
         copyright: "© 2025 Swings. สงวนลิขสิทธิ์",
         backHome: "← กลับหน้าหลัก",
-        privacyTitle: "นโยบายความเป็นส่วนตัว",
-        termsTitle: "เงื่อนไขการให้บริการ",
-        lastUpdated: "อัปเดตล่าสุด: 10 ตุลาคม 2025"
+        lastUpdated: "อัปเดตล่าสุด: 10 ตุลาคม 2025",
     },
     nl: {
         title: "Swings - Stemmingstracking App",
@@ -443,43 +447,41 @@ const translations = {
         visualProgress: "Visuele Voortgang",
         visualProgressDesc: "Bekijk uw emotionele reis met stemmingsindicatoren die direct in de kalender worden weergegeven. Zie uw trends en patronen in één oogopslag.",
         premiumFeatures: "✨ Premium Functies",
-        premiumSubtitle: "Ontgrendel onbeperkte toegang tot uw volledige stemmingsgeschiedenis",
+        premiumSubtitle: "Ontgrendel alle functies om je stemmingstracking te verbeteren",
         unlimitedNav: "📅 Onbeperkte Kalendernavigatie",
         unlimitedNavDesc: "Navigeer naar elke maand in uw geschiedenis zonder beperkingen",
         fullHistory: "🗂️ Volledige Geschiedenistoegang",
         fullHistoryDesc: "Bekijk al uw stemmingsinvoer van elke tijdsperiode",
-        moodAnalytics: "📊 Stemmingsanalyse",
+        moodAnalytics: "Stemmingsanalyse",
         moodAnalyticsDesc: "Visualiseer uw stemmingstrends met prachtige grafieken",
         freeTrial: "7-daagse gratis proefperiode inbegrepen bij jaarabonnement",
         terms: "Servicevoorwaarden",
         privacy: "Privacybeleid",
         copyright: "© 2025 Swings. Alle rechten voorbehouden.",
         backHome: "← Terug naar Home",
-        privacyTitle: "Privacybeleid",
-        termsTitle: "Servicevoorwaarden",
-        lastUpdated: "Laatst bijgewerkt: 10 oktober 2025"
+        lastUpdated: "Laatst bijgewerkt: 10 oktober 2025",
     }
 };
 
 // Language names in their native script
 const languageNames = {
-    en: "English",
-    es: "Español",
-    fr: "Français",
-    de: "Deutsch",
-    it: "Italiano",
-    pt: "Português",
-    ja: "日本語",
-    ko: "한국어",
-    zh: "简体中文",
-    "zh-TW": "繁體中文",
-    ar: "العربية",
-    hi: "हिन्दी",
-    ru: "Русский",
-    tr: "Türkçe",
-    id: "Bahasa Indonesia",
-    th: "ไทย",
-    nl: "Nederlands"
+    en: "🇬🇧 English",
+    es: "🇪🇸 Español",
+    fr: "🇫🇷 Français",
+    de: "🇩🇪 Deutsch",
+    it: "🇮🇹 Italiano",
+    pt: "🇵🇹 Português",
+    ja: "🇯🇵 日本語",
+    ko: "🇰🇷 한국어",
+    zh: "🇨🇳 简体中文",
+    "zh-TW": "🇹🇼 繁體中文",
+    ar: "🇸🇦 العربية",
+    hi: "🇮🇳 हिन्दी",
+    ru: "🇷🇺 Русский",
+    tr: "🇹🇷 Türkçe",
+    id: "🇮🇩 Bahasa Indonesia",
+    th: "🇹🇭 ไทย",
+    nl: "🇳🇱 Nederlands"
 };
 
 // Detect user's preferred language
@@ -531,7 +533,7 @@ function applyTranslations(lang) {
     document.querySelectorAll('[data-i18n]').forEach(element => {
         const key = element.getAttribute('data-i18n');
         if (t[key]) {
-            element.textContent = t[key];
+        element.textContent = t[key];
         }
     });
     
@@ -559,14 +561,14 @@ function createLanguageSelector() {
     selector.className = 'language-selector';
     selector.innerHTML = `
         <button class="lang-button" id="langButton" aria-label="Select language">
-            🌐 ${languageNames[currentLang]}
+        🌐 ${languageNames[currentLang]}
         </button>
         <div class="lang-dropdown" id="langDropdown">
-            ${Object.keys(translations).map(lang => `
-                <a href="?lang=${lang}" class="lang-option ${lang === currentLang ? 'active' : ''}" data-lang="${lang}">
-                    ${languageNames[lang]}
-                </a>
-            `).join('')}
+        ${Object.keys(translations).map(lang => `
+        <a href="?lang=${lang}" class="lang-option ${lang === currentLang ? 'active' : ''}" data-lang="${lang}">
+        ${languageNames[lang]}
+        </a>
+        `).join('')}
         </div>
     `;
     
@@ -594,11 +596,11 @@ function createLanguageSelector() {
     // Change language
     document.querySelectorAll('.lang-option').forEach(option => {
         option.addEventListener('click', (e) => {
-            e.preventDefault();
-            const lang = option.getAttribute('data-lang');
-            const url = new URL(window.location);
-            url.searchParams.set('lang', lang);
-            window.location.href = url.toString();
+        e.preventDefault();
+        const lang = option.getAttribute('data-lang');
+        const url = new URL(window.location);
+        url.searchParams.set('lang', lang);
+        window.location.href = url.toString();
         });
     });
 }
@@ -615,87 +617,102 @@ const privacyTranslations = {
     en: {
         privacyTitle: "Privacy Policy",
         termsTitle: "Terms of Service",
-        lastUpdated: "Last Updated: October 10, 2025"
+        lastUpdated: "Last Updated: October 10, 2025",
     },
     es: {
-        privacyTitle: "Política de Privacidad",
+        privacyTitle: "Tu privacidad importa",
         termsTitle: "Términos de Servicio",
-        lastUpdated: "Última actualización: 10 de octubre de 2025"
+        lastUpdated: "Última actualización: 10 de octubre de 2025",
+        featuresTitle: "¿Por qué elegir Swings?",
+        captureTitle: "Captura Tus Momentos",
+        captureDesc: "Adjunta fotos a tus entradas de ánimo para recordar qué hizo especial cada día.",
+        voiceTitle: "Habla sin reservas",
+        voiceDesc: "Graba notas de voz para capturar tus pensamientos y emociones con tus propias palabras.",
+        privacyDesc: "Todos tus datos permanecen privados y seguros en tu dispositivo. Nunca recopilamos ni compartimos tu información personal.",
+        premiumFeatures: "✨ Desbloquear Premium",
+        premiumSubtitle: "Desbloquea todas las funciones para mejorar tu seguimiento de ánimo",
+        moodAnalytics: "Análisis del Estado de Ánimo",
+        moodAnalyticsDesc: "Visualiza tus tendencias de estado de ánimo a lo largo del tiempo con gráficos hermosos y perspectivas.",
+        unlimitedPictures: "Fotos de Estado de Ánimo",
+        unlimitedPicturesDesc: "Adjunta tantas fotos como quieras para capturar tus momentos especiales.",
+        voiceRecordings: "Grabaciones de voz",
+        voiceRecordingsDesc: "Graba notas de voz ilimitadas para expresar tus pensamientos y sentimientos.",
+        freeTrial: "Prueba gratuita de 7 días con el plan anual",
     },
     fr: {
         privacyTitle: "Politique de Confidentialité",
         termsTitle: "Conditions d'Utilisation",
-        lastUpdated: "Dernière mise à jour : 10 octobre 2025"
+        lastUpdated: "Dernière mise à jour : 10 octobre 2025",
     },
     de: {
         privacyTitle: "Datenschutzerklärung",
         termsTitle: "Nutzungsbedingungen",
-        lastUpdated: "Letzte Aktualisierung: 10. Oktober 2025"
+        lastUpdated: "Letzte Aktualisierung: 10. Oktober 2025",
     },
     it: {
         privacyTitle: "Informativa sulla Privacy",
         termsTitle: "Termini di Servizio",
-        lastUpdated: "Ultimo aggiornamento: 10 ottobre 2025"
+        lastUpdated: "Ultimo aggiornamento: 10 ottobre 2025",
     },
     pt: {
         privacyTitle: "Política de Privacidade",
         termsTitle: "Termos de Serviço",
-        lastUpdated: "Última atualização: 10 de outubro de 2025"
+        lastUpdated: "Última atualização: 10 de outubro de 2025",
     },
     ja: {
         privacyTitle: "プライバシーポリシー",
         termsTitle: "利用規約",
-        lastUpdated: "最終更新日: 2025年10月10日"
+        lastUpdated: "最終更新日: 2025年10月10日",
     },
     ko: {
         privacyTitle: "개인정보 처리방침",
         termsTitle: "서비스 약관",
-        lastUpdated: "최종 업데이트: 2025년 10월 10일"
+        lastUpdated: "최종 업데이트: 2025년 10월 10일",
     },
     zh: {
         privacyTitle: "隐私政策",
         termsTitle: "服务条款",
-        lastUpdated: "最后更新：2025年10月10日"
+        lastUpdated: "最后更新：2025年10月10日",
     },
     "zh-TW": {
         privacyTitle: "隱私政策",
         termsTitle: "服務條款",
-        lastUpdated: "最後更新：2025年10月10日"
+        lastUpdated: "最後更新：2025年10月10日",
     },
     ar: {
         privacyTitle: "سياسة الخصوصية",
         termsTitle: "شروط الخدمة",
-        lastUpdated: "آخر تحديث: 10 أكتوبر 2025"
+        lastUpdated: "آخر تحديث: 10 أكتوبر 2025",
     },
     hi: {
         privacyTitle: "गोपनीयता नीति",
         termsTitle: "सेवा की शर्तें",
-        lastUpdated: "अंतिम अपडेट: 10 अक्टूबर 2025"
+        lastUpdated: "अंतिम अपडेट: 10 अक्टूबर 2025",
     },
     ru: {
         privacyTitle: "Политика конфиденциальности",
         termsTitle: "Условия использования",
-        lastUpdated: "Последнее обновление: 10 октября 2025 г."
+        lastUpdated: "Последнее обновление: 10 октября 2025 г.",
     },
     tr: {
         privacyTitle: "Gizlilik Politikası",
         termsTitle: "Hizmet Şartları",
-        lastUpdated: "Son güncelleme: 10 Ekim 2025"
+        lastUpdated: "Son güncelleme: 10 Ekim 2025",
     },
     id: {
         privacyTitle: "Kebijakan Privasi",
         termsTitle: "Ketentuan Layanan",
-        lastUpdated: "Terakhir diperbarui: 10 Oktober 2025"
+        lastUpdated: "Terakhir diperbarui: 10 Oktober 2025",
     },
     th: {
         privacyTitle: "นโยบายความเป็นส่วนตัว",
         termsTitle: "เงื่อนไขการให้บริการ",
-        lastUpdated: "อัปเดตล่าสุด: 10 ตุลาคม 2025"
+        lastUpdated: "อัปเดตล่าสุด: 10 ตุลาคม 2025",
     },
     nl: {
         privacyTitle: "Privacybeleid",
         termsTitle: "Servicevoorwaarden",
-        lastUpdated: "Laatst bijgewerkt: 10 oktober 2025"
+        lastUpdated: "Laatst bijgewerkt: 10 oktober 2025",
     }
 };
 
